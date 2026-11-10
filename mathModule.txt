@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Addition function by sohan
+=======
+multiple functon by marc
+>>>>>>> Marc_branch
